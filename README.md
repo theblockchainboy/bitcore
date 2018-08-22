@@ -1,5 +1,5 @@
 
-<u>Create A Bitcoin address with Bitcore</u>
+**<u>Create A Bitcoin address with Bitcore</u>**
 
 I like Bitcore because it is javascript based.
 
