@@ -7,7 +7,7 @@ I think Bitcore provides a great platform to build services that interact with t
 
 
 
-* Follow to install NVM, Node, Bitcore and create a bitcoin address
+Follow to install NVM, Node, Bitcore and create a bitcoin address
 
 NVM install instructions:
 https://github.com/creationix/nvm#install-script
@@ -25,6 +25,7 @@ nvm install v4.2
 node --version
 
 * install bitcore globally
+
 npm install -g bitcore
 
 * make project directory
