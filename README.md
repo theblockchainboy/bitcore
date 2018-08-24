@@ -78,3 +78,5 @@ var address = new bitcore.PrivateKey(rand_number).toAddress();
 * make a test network address
 
 var address = new bitcore.PrivateKey(rand_number).toAddress(‘testnet’);
+
+That is it...if you want more help see our blog: https://theblockchainboy.github.io/
